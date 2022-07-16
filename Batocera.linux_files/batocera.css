@@ -1,0 +1,29 @@
+html{
+  height:100%;
+}
+ 
+body{
+  height:100%;
+  position: relative;
+}
+ 
+#wrap{
+  min-height:100%;
+  position: relative;
+}
+ 
+#header{
+  position: relative;
+}
+
+#main{
+  position: relative;
+  padding-bottom: 100px;
+}
+
+#footer{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
